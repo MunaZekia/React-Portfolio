@@ -9,8 +9,8 @@ function About() {
         <div className="aboutBox bg-light bg-opacity-50 rounded-4 shadow pt-3 pb-3">
           <div className="about">
             <div className="hiBox">
-              <p>Hi, I'm 👋 </p>
-              <p>lorem </p>
+              <p>Hi, I'm Muna Zeki👋 </p>
+              <p>My name is Muna Zeki. I am a school interventionist </p>
             </div>
 
             <img
